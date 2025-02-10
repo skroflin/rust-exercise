@@ -1,0 +1,10 @@
+[package]
+name = "lesson-02"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+# Generated with cargo file_name
+# Cargo is used to handle tasks for the developer (building code, downloading libraries, etc)
+# Building a "Hello, world!" project with Cargo handles building our code
